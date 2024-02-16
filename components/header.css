@@ -1,0 +1,14 @@
+@media (width < 380px) {
+     .head   {
+          padding-inline: 16px;
+          gap: 5px;
+          padding-block: 5px;
+     }
+      .head p {
+          font-size: 10px;
+      }
+      .head img {
+          width: 15px;
+          height: 15px;
+      }
+}
